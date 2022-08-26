@@ -1,6 +1,6 @@
 # DC-GAN using TPU
 
-Google colab codes for running DC-GAN using TPU
+GAN_for_TPU_on_mnist.ipynb is google colab codes for running DC-GAN using TPU
 
 Please see the following link for further description
 
