@@ -12,3 +12,5 @@ https://medium.com/@siju.g.chacko/creating-dc-gan-for-tpu-using-a-customized-lea
 Loading_TFDS_in_TPU.ipynb is google colab codes for loading tfds (mnist) in TPU.
 
 Please see the following link for further description
+
+https://medium.com/@siju.g.chacko/loading-tensorflow-datasets-tfds-module-in-tpu-colab-e8fd65422c18
